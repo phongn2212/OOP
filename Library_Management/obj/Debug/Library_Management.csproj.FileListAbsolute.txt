@@ -1,0 +1,7 @@
+D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_Management\bin\Debug\Library_Management.exe.config
+D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_Management\bin\Debug\Library_Management.exe
+D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_Management\bin\Debug\Library_Management.pdb
+D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_Management\obj\Debug\Library_Management.csprojAssemblyReference.cache
+D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
+D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_Management\obj\Debug\Library_Management.exe
+D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
