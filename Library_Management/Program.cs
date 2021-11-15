@@ -127,6 +127,8 @@ namespace Library_Management
             TaoDSKhachHang();
             Linq01();
 
+            Console.WriteLine("Commit 1");
+
             Console.ReadKey();
 
         }
