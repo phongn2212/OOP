@@ -16,7 +16,7 @@ namespace Library_Management
         public string ngaySinh { get; set; }
         public string gioiTinh { get; set; }
         public string thanhPho { get; set; }
-        public int sdt { get; set; }
+        public string sdt { get; set; }
 
         // 1 khach hang su dung n loai tien te
         public ICollection<TIENTE> tienTeSuDung { get; set; }
@@ -41,7 +41,7 @@ namespace Library_Management
             this.dsQuocTich = kh.dsQuocTich;
         }
 
-        public KHACHHANG(string idKH, string hoTen, string CMND, string ngaySinh, string gioiTinh, string thanhPho, int sdt,
+        public KHACHHANG(string idKH, string hoTen, string CMND, string ngaySinh, string gioiTinh, string thanhPho, string sdt,
             ICollection<TIENTE> tienTeSuDung, ICollection<QUOCGIA> dsQuocTich)
         {
             this.idKH = idKH;

@@ -5,3 +5,10 @@ D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_M
 D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
 D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_Management\obj\Debug\Library_Management.exe
 D:\BAITAPLAPTRINH\Lap Trinh Huong Doi Tuong\Project\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
+F:\OOP-main\OOP-main\Library_Management\bin\Debug\Library_Management.exe.config
+F:\OOP-main\OOP-main\Library_Management\bin\Debug\Library_Management.exe
+F:\OOP-main\OOP-main\Library_Management\bin\Debug\Library_Management.pdb
+F:\OOP-main\OOP-main\Library_Management\obj\Debug\Library_Management.csproj.AssemblyReference.cache
+F:\OOP-main\OOP-main\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
+F:\OOP-main\OOP-main\Library_Management\obj\Debug\Library_Management.exe
+F:\OOP-main\OOP-main\Library_Management\obj\Debug\Library_Management.pdb
